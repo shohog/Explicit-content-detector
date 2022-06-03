@@ -1,0 +1,3 @@
+"Imaginary",
+"AN - Adult Nudity",
+"NAN - Not Adult Nudity"

@@ -96,7 +96,7 @@ scipy==1.7.1
 Send2Trash==1.8.0
 six==1.15.0
 sniffio==1.2.0
-tensorflow-cpu
+tensorflow-cpu==2.6.5
 tensorboard==2.6.0
 tensorboard-data-server==0.6.1
 tensorboard-plugin-wit==1.8.0

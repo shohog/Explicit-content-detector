@@ -28,9 +28,9 @@ def prediction():
 
 	image = cv2.cvtColor(image, cv2.COLOR_BGR2RGB)
 
-	image = cv2.resize(image, (64,64))
+	image = cv2.resize(image, (224,224))
 
-	image = np.reshape(image, (1,64,64,3))
+	image = np.reshape(image, (1,224,224,3))
 
 	pred = kotha.predict(image)
 

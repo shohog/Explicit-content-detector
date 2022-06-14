@@ -1,3 +1,6 @@
 "Imaginary",
-"AN - Adult Nudity",
-"NAN - Not Adult Nudity"
+"Drawing",
+"Hentai",
+"Neutral",
+"Porn",
+"Sexy"
